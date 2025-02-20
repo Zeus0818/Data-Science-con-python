@@ -1,2 +1,2 @@
-# Administrador-de-Tareas
-ProyectoFInal-PPP - Aplicacion tipo Trelo con IA integrada
+# Listas , tuplas y diccionarios en Python
+Estructura de datos en Python
